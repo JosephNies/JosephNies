@@ -469,6 +469,27 @@ a:hover{
     }
 }
 
+/*--------------------------------------------------------------
+# About Me Video Section
+--------------------------------------------------------------*/
+
+#about-me-video {
+    padding: 90px 0px;
+    background-image: url(/assets/images/grid.png);
+    background-size: contain;
+    min-height: 50vh;
+    padding: 30px 0px 30px 0px;
+
+}
+
+#about-me-video .iframe-responsive{
+    min-height: 80vh;
+    min-width: auto;
+    padding: 30px 0px 30px 0px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
 
 /*--------------------------------------------------------------
 # Things I Love Section
